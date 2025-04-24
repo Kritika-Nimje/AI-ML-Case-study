@@ -1,10 +1,5 @@
-# Aiml_DeepLearnig
-
-Here's a clean, professional rewrite of your Deep Learning CA-4 assignment repository `README.md`:
-
----
-
-# 🧠 Deep Learning CA-4 Assignment  
+# 🧠 Aiml_DeepLearnig
+ 
 **Subject:** Introduction to Deep Learning  
 **Name:** Ishwari Kakade  
 **PRN:** 22070521183  
